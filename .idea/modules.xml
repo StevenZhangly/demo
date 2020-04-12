@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/demo.iml" filepath="$PROJECT_DIR$/.idea/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello/hello.iml" filepath="$PROJECT_DIR$/../hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-parent/springcloud-config/springcloud-config.iml" filepath="$PROJECT_DIR$/../springcloud-parent/springcloud-config/springcloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-parent/springcloud-discovery/springcloud-discovery.iml" filepath="$PROJECT_DIR$/../springcloud-parent/springcloud-discovery/springcloud-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-parent/springcloud-monitor/springcloud-monitor.iml" filepath="$PROJECT_DIR$/../springcloud-parent/springcloud-monitor/springcloud-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-parent/springcloud-parent.iml" filepath="$PROJECT_DIR$/../springcloud-parent/springcloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-parent/springcloud-person/springcloud-person.iml" filepath="$PROJECT_DIR$/../springcloud-parent/springcloud-person/springcloud-person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-parent/springcloud-some/springcloud-some.iml" filepath="$PROJECT_DIR$/../springcloud-parent/springcloud-some/springcloud-some.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-parent/springcloud-ui/springcloud-ui.iml" filepath="$PROJECT_DIR$/../springcloud-parent/springcloud-ui/springcloud-ui.iml" />
+    </modules>
+  </component>
+</project>
